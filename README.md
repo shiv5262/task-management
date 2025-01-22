@@ -8,10 +8,32 @@ This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## How to Use 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# task-management
+**Step 1:**
+
+Download or clone this repo by running this command:
+
+```
+git clone https://github.com/shiv5262/task-management.git
+```
+
+**Step 2:**
+
+Go to project root and execute the following command in console to get the required dependencies: 
+
+```
+flutter pub get 
+```
+
+
+**Step 3:**
+
+Run the project in android or ios device: 
+
+```
+flutter run 
+```
+
+
+Feel free to reach out if you encounter any issues while running the app! 
